@@ -101,6 +101,7 @@ int main(void)
 
 ## Output  :
 
+![Screenshot 2023-08-11 211528](https://github.com/LavanyaMuraleedharan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120103862/b71224b1-41d2-410b-a931-c414124eece8)
 
 
 ## Result :
