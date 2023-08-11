@@ -100,17 +100,9 @@ int main(void)
 ```
 
 ## Output  :
-BEFORE RUNNING:
-![WhatsApp Image 2023-08-11 at 19 54 07](https://github.com/LavanyaMuraleedharan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120103862/71cd6b39-30fb-46b7-9686-e92289005f07)
 
 
- AFTER RUNNING:
- ![WhatsApp Image 2023-08-11 at 19 53 51](https://github.com/LavanyaMuraleedharan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/120103862/5b52eac9-66c1-4cd9-bb95-5a6bee417615)
 
- 
-
- 
- 
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
 
