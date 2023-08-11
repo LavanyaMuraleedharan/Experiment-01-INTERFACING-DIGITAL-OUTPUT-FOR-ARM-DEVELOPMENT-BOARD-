@@ -76,6 +76,7 @@ The main features of LPC2148 include the following.
 
 
 ## STM 32 CUBE PROGRAM :
+```
 
 #include "main.h"
 void SystemClock_Config(void);
@@ -96,6 +97,7 @@ int main(void)
   }
  
 }
+```
 
 ## Output  :
 BEFORE RUNNING:
